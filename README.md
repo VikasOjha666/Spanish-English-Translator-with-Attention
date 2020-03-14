@@ -5,7 +5,7 @@
 ## Requirements.
 
 # Python
-1.Keras
+1.Tensorflow2.0
 
 2.Numpy
 
